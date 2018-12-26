@@ -12,9 +12,7 @@
 
 ## Aillo
 
-### 数字图像处理课设
-
-![image](https://github.com/KevinLEEEEEEE/Aillo/blob/master/src/image/pipeline.jpg)
+### 数字图像处理课设，webworker大量使用，主要以算法为主
 
 ![image](https://github.com/KevinLEEEEEEE/Aillo/blob/master/src/image/pipeline.jpg)
 
@@ -22,7 +20,7 @@
 
 ## the little prince
 
-### 互动媒体技术课设，专注于趣味调色的小王子主题王赞，webComponent初体验
+### 互动媒体技术课设，专注于趣味调色的小王子主题软件，寻求一种玩具般的奇妙体验，webComponent初体验
 
 ![image](https://github.com/KevinLEEEEEEE/theLittlePrince/blob/master/src/image/design3.png)
 
@@ -30,7 +28,7 @@
 
 ## imageDiff
 
-### 利用webAssembly实现的图像找不同算法
+### 利用webAssembly实现的快速图像找不同算法
 
 ![image](https://github.com/KevinLEEEEEEE/imageDiffer/blob/master/src/image/concepts/2.png)
 
@@ -42,7 +40,7 @@
 
 ## Anubis
 
-### 大创游戏项目 - 阿努比斯
+### 大创游戏项目 - 阿努比斯，讲述了远离世俗的神之子阿努比斯，为了拯救同伴，毅然踏上征途的故事
 
 ![image](https://github.com/KevinLEEEEEEE/collectionOfWorks/blob/master/Anubis/bg.jpg)
 
