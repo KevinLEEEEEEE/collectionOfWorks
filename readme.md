@@ -1,5 +1,11 @@
 # collection of works
 
+## Aillo's Blog
+
+### 个人博客
+
+> http://www.lucario.cn
+
 ## copyBoard
 
 ### 一款帮助用户临摹像素画的在线软件
